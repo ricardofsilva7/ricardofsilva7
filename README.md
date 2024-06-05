@@ -1,9 +1,9 @@
 # Ricardo Silva 🔭
 
-## Sobre Mim ⚡
+## Sobre Mim :shipit:
 Estou em transição de carreira com aspirações em Análise e Desenvolvimento de Sistemas. Atualmente, sou estagiário na 2RP Net, alinhado aos meus objetivos profissionais e acadêmicos. Estou entusiasmado em aplicar e expandir meus conhecimentos em projetos tecnológicos inovadores.
 
-## Habilidades
+## Habilidades ⚡
 - **Linguagens de Programação**: Java, Python, SQL
 - **Tecnologias de Cloud**: Google Cloud Platform (GCP)
 - **Desenvolvimento de Sistemas**: Análise de Sistemas, Desenvolvimento de Software
