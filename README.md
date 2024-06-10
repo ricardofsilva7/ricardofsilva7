@@ -26,5 +26,4 @@ Estou em transição de carreira com aspirações em Análise e Desenvolvimento 
   - Aplicação prática de conhecimentos acadêmicos em desenvolvimento de sistemas.
 
 ## Contato
-- **LinkedIn**: [linkedin.com/in/ricardo-silva-60430a245](https://www.linkedin.com/in/ricardo-silva-60430a245)
 - **Email**: ricardo.ads402@gmail.com
