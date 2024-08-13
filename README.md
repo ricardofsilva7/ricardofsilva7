@@ -1,17 +1,15 @@
-# Ricardo Silva 🔭
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ricardofsilva7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Sobre Mim :shipit:
+## ➕ Sobre Mim
 Estou em transição de carreira com aspirações em Análise e Desenvolvimento de Sistemas. Atualmente, sou estagiário na 2RP Net, alinhado aos meus objetivos profissionais e acadêmicos. Estou entusiasmado em aplicar e expandir meus conhecimentos em projetos tecnológicos inovadores.
 
-## Habilidades ⚡
+## ⚡ Habilidades 
 - **Linguagens de Programação**: C++, Java, Python, SQL
 - **Tecnologias de Cloud**: Google Cloud Platform (GCP)
 - **Desenvolvimento de Sistemas**: Análise de Sistemas, Desenvolvimento de Software
 
 
-## Certificações Relevantes
+## 🧱 Certificações Relevantes
 - **[Derive Insights from BigQuery Data](https://www.cloudskillsboost.google/public_profiles/996b9a65-8fce-4d88-831c-8de964b4b4f0/badges/9336968)**
   - Google, emitido em jun. de 2024, Nº da credencial: 9336968
 - **[Analyze Speech and Language with Google APIs](https://www.cloudskillsboost.google/public_profiles/996b9a65-8fce-4d88-831c-8de964b4b4f0/badges/9111306)**
@@ -22,15 +20,6 @@ Estou em transição de carreira com aspirações em Análise e Desenvolvimento 
   - Google, emitido em mai. de 2024, Nº da credencial: 8950743
 - **[Google Cloud Computing Foundations: Networking](https://www.cloudskillsboost.google/public_profiles/996b9a65-8fce-4d88-831c-8de964b4b4f0/badges/8921369)**
   - Google, emitido em mai. de 2024, Nº da credencial: 8921369
-
-## Experiência Profissional
-- **2RP Net** - Estagiário
-  - Participação em projetos tecnológicos inovadores.
-  - Aplicação prática de conhecimentos acadêmicos em desenvolvimento de sistemas.
-
-## Contato
-- **Email**: ricardo.ads402@gmail.com
-
 ***
 
 ![Snake animation](https://raw.githubusercontent.com/ricardofsilva7/ricardofsilva7/output/github-contribution-grid-snake-dark.svg)
