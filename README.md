@@ -33,6 +33,6 @@ Estou em transição de carreira com aspirações em Análise e Desenvolvimento 
 
 ***
 
-![snake animation](https://github.com/ricardofsilva7/ricardofsilva7/raw/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/ricardofsilva7/ricardofsilva7/output/github-contribution-grid-snake-dark.svg)
             
             
