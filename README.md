@@ -31,3 +31,8 @@ Estou em transição de carreira com aspirações em Análise e Desenvolvimento 
 ## Contato
 - **Email**: ricardo.ads402@gmail.com
 
+***
+
+![snake animation](https://github.com/ricardofsilva7/ricardofsilva7/blob/output/github-contribution-grid-snake2.svg)
+            
+            
