@@ -22,5 +22,5 @@ Estou em transição de carreira com aspirações em Análise e Desenvolvimento 
   - Google, emitido em mai. de 2024, Nº da credencial: 8921369
 ***
 
-![snake animation](https://github.com/ricardofsilva7/ricardofsilva7/raw/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/ricardofsilva7/ricardofsilva7/blob/output/github-contribution-grid-snake.svg)
             
