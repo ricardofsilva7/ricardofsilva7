@@ -1,4 +1,4 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ricardofsilva7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ricardofsilva7&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ➕ Sobre Mim
 Estou em transição de carreira com aspirações em Análise e Desenvolvimento de Sistemas. Atualmente, sou estagiário na 2RP Net, alinhado aos meus objetivos profissionais e acadêmicos. Estou entusiasmado em aplicar e expandir meus conhecimentos em projetos tecnológicos inovadores.
