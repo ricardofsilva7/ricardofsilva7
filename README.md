@@ -45,7 +45,7 @@ Estou em transição de carreira com aspirações em Análise e Desenvolvimento 
 
   ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-### 🕓 Versionamento de código**
+### 🕓 Versionamento de código
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
