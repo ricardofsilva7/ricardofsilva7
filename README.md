@@ -5,7 +5,8 @@
 Estou em transição de carreira com aspirações em Análise e Desenvolvimento de Sistemas. Atualmente, sou estagiário na 2RP Net, alinhado aos meus objetivos profissionais e acadêmicos. Estou entusiasmado em aplicar e expandir meus conhecimentos em projetos tecnológicos inovadores.
 
 ## ⚡ Habilidades 
-📋 **Linguagens**
+
+### 📋 Linguagens
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -17,13 +18,13 @@ Estou em transição de carreira com aspirações em Análise e Desenvolvimento 
 
 <br>
 
-💾 **Banco de Dados**
+### 💾 Banco de Dados
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br>
 
-📚 **Frameworks, Plataformas and Bibliotecas**
+### 📚 Frameworks, Plataformas and Bibliotecas
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
@@ -32,20 +33,20 @@ Estou em transição de carreira com aspirações em Análise e Desenvolvimento 
 
 <br>
 
-  ☁️ **Hosting/SaaS**
+  ### ☁️ Hosting/SaaS
 
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
   
   <br>
   
-  💻 **IDEs/Editores**
+### 💻 IDEs/Editores
   
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
   <br>
 
-  🖥️ **ML/DL**
+### 🖥️ ML/DL
 
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -53,20 +54,20 @@ Estou em transição de carreira com aspirações em Análise e Desenvolvimento 
 
   <br>
 
-   🗄️ **Servers**
+### 🗄️ Servers
 
   ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
   <br>
 
-  🕓 **Versionamento de código**
+### 🕓 Versionamento de código**
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
   <br>
 
-  🥅 **Outros**
+### 🥅 Outros
 
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
