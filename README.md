@@ -59,6 +59,8 @@ Estou em transição de carreira com aspirações em Análise e Desenvolvimento 
 <br>
 
 ## 🧱 Certificações Relevantes
+- **[Get Started with Pub/Sub Skill Badge](https://www.cloudskillsboost.google/public_profiles/996b9a65-8fce-4d88-831c-8de964b4b4f0/badges/10745477)**
+  - Google, emitido em ago. de 2024, Nº da credencial: 10745477
 - **[Derive Insights from BigQuery Data](https://www.cloudskillsboost.google/public_profiles/996b9a65-8fce-4d88-831c-8de964b4b4f0/badges/9336968)**
   - Google, emitido em jun. de 2024, Nº da credencial: 9336968
 - **[Analyze Speech and Language with Google APIs](https://www.cloudskillsboost.google/public_profiles/996b9a65-8fce-4d88-831c-8de964b4b4f0/badges/9111306)**
