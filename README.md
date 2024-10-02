@@ -29,6 +29,7 @@ Estou em transição de carreira com aspirações em Análise e Desenvolvimento 
   ### ☁️ Hosting/SaaS
 
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
   
 ### 🚚 IDEs/Editores
 
