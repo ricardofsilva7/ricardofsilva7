@@ -2,13 +2,12 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardofsilva7&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## ➕ Sobre Mim
-Estou em transição de carreira com aspirações em Análise e Desenvolvimento de Sistemas. Atualmente, sou estagiário na 2RP Net, alinhado aos meus objetivos profissionais e acadêmicos. Estou entusiasmado em aplicar e expandir meus conhecimentos em projetos tecnológicos inovadores.
+Atualmente, atuo como estagiário na área de tecnologia na 2RP Net, onde tenho a oportunidade de aplicar e expandir meus conhecimentos em análise de dados, automação e otimização de processos. Trabalho com ferramentas como BigQuery, Dataform e Dataplex, focando em soluções baseadas em dados e contribuindo para inovações tecnológicas que impactam diretamente os resultados da empresa.
 
 ## ⚡ Habilidades 
 
 ### 📋 Linguagens
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,7 +22,6 @@ Estou em transição de carreira com aspirações em Análise e Desenvolvimento 
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
- ![JAVAFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
   ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
   
   ### ☁️ Hosting/SaaS
