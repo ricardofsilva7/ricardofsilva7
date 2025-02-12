@@ -2,7 +2,7 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardofsilva7&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## ➕ Sobre Mim
-Atualmente, atuo como estagiário na área de tecnologia na 2RP Net, onde tenho a oportunidade de aplicar e expandir meus conhecimentos em análise de dados, automação e otimização de processos. Trabalho com ferramentas como BigQuery, Dataform e Dataplex, focando em soluções baseadas em dados e contribuindo para inovações tecnológicas que impactam diretamente os resultados da empresa.
+Atualmente, atuo como estagiário na área de tecnologia na 2RP Net, onde tenho a oportunidade de aplicar e expandir meus conhecimentos em análise de dados, automação e otimização de processos. Trabalho com ferramentas como **BigQuery**, **Dataform**, **Looker** e **Dataplex**, focando em soluções baseadas em dados e contribuindo para inovações tecnológicas que impactam diretamente os resultados da empresa.
 
 ## ⚡ Habilidades 
 
