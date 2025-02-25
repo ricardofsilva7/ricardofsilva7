@@ -24,9 +24,9 @@ Atualmente, atuo como estagiário na área de tecnologia na 2RP Net, onde tenho 
   
   ### ☁️ Hosting/SaaS
   
-  ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
 ### 🚚 IDEs/Editores
 
