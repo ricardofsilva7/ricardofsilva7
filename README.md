@@ -57,18 +57,30 @@ Atualmente, atuo como estagiário na área de tecnologia na 2RP Net, onde tenho 
 <br>
 
 ## 🧱 Certificações Relevantes
-- **[Get Started with Pub/Sub Skill Badge](https://www.cloudskillsboost.google/public_profiles/996b9a65-8fce-4d88-831c-8de964b4b4f0/badges/10745477)**
-  - Google, emitido em ago. de 2024, Nº da credencial: 10745477
-- **[Derive Insights from BigQuery Data](https://www.cloudskillsboost.google/public_profiles/996b9a65-8fce-4d88-831c-8de964b4b4f0/badges/9336968)**
-  - Google, emitido em jun. de 2024, Nº da credencial: 9336968
-- **[Analyze Speech and Language with Google APIs](https://www.cloudskillsboost.google/public_profiles/996b9a65-8fce-4d88-831c-8de964b4b4f0/badges/9111306)**
-  - Google, emitido em mai. de 2024, Nº da credencial: 9111306
-- **[Build and Deploy Machine Learning Solutions on Vertex AI](https://www.cloudskillsboost.google/public_profiles/996b9a65-8fce-4d88-831c-8de964b4b4f0/badges/9126265)**
-  - Google, emitido em mai. de 2024, Nº da credencial: 9126265
-- **[Google Cloud Computing Foundations: Cloud Computing Fundamentals](https://www.cloudskillsboost.google/public_profiles/996b9a65-8fce-4d88-831c-8de964b4b4f0/badges/8950743)**
-  - Google, emitido em mai. de 2024, Nº da credencial: 8950743
-- **[Google Cloud Computing Foundations: Networking](https://www.cloudskillsboost.google/public_profiles/996b9a65-8fce-4d88-831c-8de964b4b4f0/badges/8921369)**
-  - Google, emitido em mai. de 2024, Nº da credencial: 8921369
+- **[Google Cloud Data Analytics Certificate](https://www.credly.com/badges/44debf36-87d4-483a-a608-5dced46abf7a/linked_in_profile)**  
+  - Google, emitido em fev. de 2025, válido até fev. de 2028
+    
+- **[Google Cloud Computing Foundations Certificate](https://www.credly.com/badges/dd9f02f2-25c8-45ca-8dcf-7ea5806a5fc9/linked_in_profile)**  
+  - Google, emitido em mai. de 2024
+    
+- **[Build a Data Mesh with Dataplex](https://www.credly.com/badges/8bb142d8-3818-433d-99ac-7b9760ec7bec/linked_in_profile)**  
+  - Google, emitido em set. de 2024, Nº da credencial: 11379935 
+
+- **[Derive Insights from BigQuery Data](https://www.credly.com/badges/ac5f3532-d9bb-47e6-84e7-beac3f046d03/public_url)**  
+  - Google, emitido em jun. de 2024, Nº da credencial: 9336968  
+
+- **[Engineer Data for Predictive Modeling with BigQuery ML](https://www.credly.com/badges/f1881bdd-c099-43a3-beea-090b9af3b211/public_url)**  
+  - Google, emitido em jan. de 2025, Nº da credencial: 13565672
+
+- **[Create ML Models with BigQuery ML](https://www.credly.com/badges/c4be9ef3-8b61-48c6-bc41-2eda9ab317e2/public_url)**  
+  - Google, emitido em mai. de 2024, Nº da credencial: 9110957
+
+- **[Store, Process, and Manage Data on Google Cloud - Command Line](https://www.credly.com/badges/528a31a3-88aa-4acf-b5fa-ff603ae16944/public_url)**  
+  - Google, emitido em jan. de 2025, Nº da credencial: 13736811
+
+- **[Tag and Discover BigLake Data](https://www.credly.com/badges/4c63d9cb-09a8-4f7f-9a39-139c302f0609/public_url)**  
+  - Google, emitido em jan. de 2025, Nº da credencial: 13736946
+
 ***
 
 ![Snake animation](https://raw.githubusercontent.com/ricardofsilva7/ricardofsilva7/output/github-contribution-grid-snake-dark.svg)
