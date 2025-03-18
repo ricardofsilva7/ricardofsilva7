@@ -81,6 +81,9 @@ Atualmente, atuo como estagiário na área de tecnologia na 2RP Net, onde tenho 
 - **[Tag and Discover BigLake Data](https://www.credly.com/badges/4c63d9cb-09a8-4f7f-9a39-139c302f0609/public_url)**  
   - Google, emitido em jan. de 2025, Nº da credencial: 13736946
 
+- **[Manage Data Models in Looker](https://www.credly.com/badges/c6902c31-1d91-448c-994f-6fc8e9cf5c28/public_url)**  
+  - Google, emitido em jan. de 2025, Nº da credencial: 13659863
+
 ***
 
 ![Snake animation](https://raw.githubusercontent.com/ricardofsilva7/ricardofsilva7/output/github-contribution-grid-snake-dark.svg)
