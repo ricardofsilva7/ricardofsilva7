@@ -96,5 +96,5 @@ Atualmente, atuo como estagiário na área de tecnologia na 2RP Net, onde tenho 
 
 ***
 
-![Snake animation](https://raw.githubusercontent.com/ricardofsilva7/ricardofsilva7/output/github-contribution-grid-snake-dark.svg)
+
             
