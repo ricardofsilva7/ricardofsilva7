@@ -67,6 +67,8 @@ Soluções reais desenhadas para garantir escalabilidade, segurança e o control
    - *Arquitetura:* Hardware IoT sob ESP32 coletando telemetria em tempo real, roteando payloads e eventos digitais interconectados com dashboards do ThingsBoard.
 8. **[Modelagem Analítica de Clustering (K-Means)](https://github.com/ricardofsilva7/clustering_data)**
    - *Arquitetura:* Pipelines de dados em Python (`.ipynb`) consolidando rotinas de *Machine Learning* via **K-Means**. O modelo processa matrizes de transição de comportamento, avalia indicativos operacionais (ex: Risco de Estoque) e gera Resumos Executivos, transformando bases de dados granulares em *insights* acionáveis para segmentação e classificação de lojas.
+9. **[Geomarketing & Competitor Analytics Pipeline](https://github.com/ricardofsilva7/extract_competitor)**
+   - *Arquitetura:* Solução de inteligência competitiva que integra **Python (Requests/BS4)** para Web Scraping e **Overpass API** para extração de Big Data geográfico do OpenStreetMap. O pipeline calcula a pressão competitiva via fórmula de Haversine e gera análises espaciais no **Power BI**.
 
 ### 🤝 Experiência em Projetos de Equipe e Open Source
 
