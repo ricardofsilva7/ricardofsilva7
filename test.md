@@ -69,6 +69,8 @@ Soluções reais desenhadas para garantir escalabilidade, segurança e o control
    - *Arquitetura:* Pipelines de dados em Python (`.ipynb`) consolidando rotinas de *Machine Learning* via **K-Means**. O modelo processa matrizes de transição de comportamento, avalia indicativos operacionais (ex: Risco de Estoque) e gera Resumos Executivos, transformando bases de dados granulares em *insights* acionáveis para segmentação e classificação de lojas.
 9. **[Geomarketing & Competitor Analytics Pipeline](https://github.com/ricardofsilva7/extract_competitor)**
    - *Arquitetura:* Solução de inteligência competitiva que integra **Python (Requests/BS4)** para Web Scraping e **Overpass API** para extração de Big Data geográfico do OpenStreetMap. O pipeline calcula a pressão competitiva via fórmula de Haversine e gera análises espaciais no **Power BI**.
+10. **[Infra n8n - Kybernus CLI](https://github.com/ricardofsilva7/infra-n8n-CLI)**
+   - *Arquitetura:* Tooling de automação de infraestrutura em **Shell/CLI** projetado para facilitar o deploy e o gerenciamento de instâncias do **n8n**. Focado em agilidade no setup de ambientes produtivos de automação.
 
 ### 🤝 Experiência em Projetos de Equipe e Open Source
 
@@ -80,6 +82,8 @@ Participação ativa no desenvolvimento e arquitetura de software de forma colab
    - *Atuação:* Contribuiu para a base de código do motor (Lógica) desenvolvendo *features* core associadas à mecânica do jogo, como o sistema de restauro de vidas e a lógica de finalização das partidas (*End Game Logic*).
 3. **[Sistema de Tags - Squad 442](https://github.com/SL-Squad442/tag_system)**
    - *Atuação:* Engenharia de software aplicada, implementando o padrão de projeto criacional **Builder** (*Builder Design Pattern*) na refatoração e construção robusta do módulo de controle de acesso (*Access Controller*).
+4. **[Relatório de Engenharia de Dados - 2RP NET](https://github.com/2RP-Squad404/Ricardo_Silva)**
+   - *Atuação:* Elaboração de documentação técnica e relatórios de arquitetura de dados no ecossistema **2RP**, consolidando estudos sobre fluxos de informação, governança e processamento em larga escala.
 
 ---
 
