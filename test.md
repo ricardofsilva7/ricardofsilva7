@@ -76,8 +76,8 @@ Soluções reais desenhadas para garantir escalabilidade, segurança e o control
 
 Participação ativa no desenvolvimento e arquitetura de software de forma colaborativa, com Pull Requests mesclados em organizações e repositórios de times:
 
-1. **[Backend API - Integrador Food Truck](https://github.com/llei7e/Integrador-Food-Truck)**
-   - *Atuação:* Desenvolvimento do MVP do backend em **Python (FastAPI)** e **SQLAlchemy**. Liderou a modelagem de dados (MER/DER), criou os scripts SQL de definição (DDL) estrutural e as documentações da arquitetura do sistema.
+1. **[Backend API & Infra - Integrador Food Truck](https://github.com/llei7e/Integrador-Food-Truck)**
+   - *Atuação:* Atuou como **Arquiteto de Dados e Lead de DevOps**. Projetou e implementou o modelo relacional completo (SQL) para operação multi-tenant e estabeleceu a estratégia de containerização via **Docker (Multi-stage builds)** para Java/Spring Boot. Responsável por toda a documentação de arquitetura técnica (Mermaid/Diagramas) e pela estruturação do ecossistema de dados.
 2. **[Game Engine - Low-Code](https://github.com/Game-JAVA/Low-Code)**
    - *Atuação:* Contribuiu para a base de código do motor (Lógica) desenvolvendo *features* core associadas à mecânica do jogo, como o sistema de restauro de vidas e a lógica de finalização das partidas (*End Game Logic*).
 3. **[Sistema de Tags - Squad 442](https://github.com/SL-Squad442/tag_system)**
