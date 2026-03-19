@@ -53,8 +53,8 @@ Soluções reais desenhadas para garantir escalabilidade, segurança e o control
 ### 🧩 Projetos e Arquiteturas Reais
 1. **Automação de Processamento de NFs (n8n)**
    - *Arquitetura:* Extração automática de PDFs originados via Outlook, leitura e validação de dados em tempo real estruturados, finalizando com a criação automática de cards corporativos no Jira.
-2. **Governança e Atualização de Dashboards**
-   - *Arquitetura:* Construção de um pipeline invisível integrado (Jira → n8n → Bitbucket → Power BI) que garante carga incremental e 100% de <i>data lineage</i> corporativo.
+2. **[KPI Varejo - Governança e Agilidade](https://github.com/ricardofsilva7/kpi_pnb)**
+   - *Arquitetura:* Construção de um pipeline automatizado integrado (Jira → n8n → CSV/Git → Power BI) que garante carga incremental e 100% de <i>data lineage</i> corporativo, eliminando extrações manuais para métricas de fluxo e governança.
 3. **[API Gateway Serverless na AWS](https://github.com/ricardofsilva7/API-GATEWAY)**
    - *Arquitetura:* Implementação e mapeamento de gateways serverless na nuvem AWS, manipulando funções Lambda (Python) integradas de forma segura a microsserviços e banco de dados.
 4. **[FastAPI & Bancos de Dados Evolutivos](https://github.com/ricardofsilva7/fast_zero)** *(Integra [Alembic-Study](https://github.com/ricardofsilva7/Alembic-Study))*
