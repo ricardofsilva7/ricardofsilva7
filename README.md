@@ -95,6 +95,16 @@ Participação ativa no desenvolvimento e arquitetura de software de forma colab
 
 ---
 
+## 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardofsilva7/ricardofsilva7/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardofsilva7/ricardofsilva7/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ricardofsilva7/ricardofsilva7/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 ## 🔗 Conecte-se Comigo
 
 Buscando um parceiro para escalar processos, otimizar tarefas e aplicar inteligência real aos seus dados? Vamos conversar:
