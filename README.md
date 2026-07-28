@@ -1,6 +1,6 @@
-# Olá, eu sou o Ricardo Ferreira da Silva 👋
-
 <div align="center">
+  
+# Olá, eu sou o Ricardo Ferreira da Silva 👋
   <h3><strong>Automation Engineer | n8n & IA Developer | Data-Driven Problem Solver</strong></h3>
   <p>Focado em <strong>Eficiência Operacional</strong>, <strong>Automação de Processos</strong> e <strong>Engenharia de Dados</strong>.</p>
 </div>
