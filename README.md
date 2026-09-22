@@ -5,6 +5,10 @@
   <p>Focado em <strong>Eficiência Operacional</strong>, <strong>Automação de Processos</strong> e <strong>Engenharia de Dados</strong>.</p>
 </div>
 
+### 📊 Minhas Estatísticas e Linguagens
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardofsilva7&layout=compact&langs_count=8&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 🚀 Sobre Mim
