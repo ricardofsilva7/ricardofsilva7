@@ -5,9 +5,11 @@
   <p>Focado em <strong>Eficiência Operacional</strong>, <strong>Automação de Processos</strong> e <strong>Engenharia de Dados</strong>.</p>
 </div>
 
-### 📊 Minhas Estatísticas e Linguagens
-
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ricardofsilva7&layout=compact&langs_count=8&theme=transparent&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
+<p align="center">
+   <a href="https://github.com/stats-organization/github-stats-extended">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ricardofsilva7&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Principais linguagens utilizadas por Ricardo Ferreira da Silva" />
+   </a>
+</p>
 
 ---
 
