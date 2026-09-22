@@ -5,6 +5,10 @@
   <p>Focado em <strong>Eficiência Operacional</strong>, <strong>Automação de Processos</strong> e <strong>Engenharia de Dados</strong>.</p>
 </div>
 
+<p align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ricardofsilva7&theme=github_dark" alt="Principais linguagens utilizadas por Ricardo Ferreira da Silva" />
+</p>
+
 ---
 
 ## 🚀 Sobre Mim

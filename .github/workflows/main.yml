@@ -1,9 +1,9 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
+  # Refresh the contribution snapshot every 6 hours.
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 */6 * * *"
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -11,7 +11,10 @@ on:
   # run on every push on the main branch
   push:
     branches:
-    - main
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -19,7 +22,7 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      # The SVG animates a snapshot of the profile contribution graph.
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
